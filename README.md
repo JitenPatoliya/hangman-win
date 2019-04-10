@@ -1,3 +1,2 @@
-Vdily project created based on tutorial by Mosh from Udemy.
-Using MVC5, Bottstrap, JQuery, CSS
+Popular Word guessing game called Hangman in windows c#
 
